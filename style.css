@@ -1,0 +1,29 @@
+.navbar-text a {
+    margin-right: 0.5rem; /* Jarak Icon Sosmed */
+  }
+
+  .jumbotron{
+    padding-top: 2rem;
+    background-color: #9c9c9c;
+  }
+
+  .galeri{
+    background-color: #9c9c9c;
+  }
+  video {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .dip-blk{
+    display: inline-block;
+    z-index: -5;
+  }
+  .head{
+    position: relative;
+
+  }
+
+  .bg-footer{
+    background-color: #9c9c9c;
+  }
